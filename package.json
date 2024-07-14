@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://ringale95.github.io",
+  "homepage": "http://ringale95.github.io/react-app",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
